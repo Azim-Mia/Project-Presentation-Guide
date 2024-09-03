@@ -2,7 +2,7 @@
 
 ## What should you add to the slides? 
 
-- I am sharing my ideas; feel free to be creative. [Here you can find a demo slide](https://docs.google.com/presentation/d/1Zx5qwbh34cGoOPwH9ZwSKMhgMkF64hMbyM_s4PBxOf4/edit?usp=sharing)
+- I am sharing my ideas; feel free to be creative. [Here you can find a demo slide(anisul-islam)](https://docs.google.com/presentation/d/1Zx5qwbh34cGoOPwH9ZwSKMhgMkF64hMbyM_s4PBxOf4/edit?usp=sharing)
 
 1. Title Slide: 
     - [ ]  Project Title,
